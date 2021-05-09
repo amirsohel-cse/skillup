@@ -1,0 +1,361 @@
+/* =========== Medium Layout: 1280px =============== */
+@media (max-width:1200px){
+
+}
+
+/* =========== Tablet Layout: 768px =============== */
+@media (max-width:991px){
+  .search-section {
+    top: 24%;
+    left: 2%;
+  }
+  .search-section h1 {
+    font-size: 30px;
+  }
+  .search-section p {
+    font-size: 18px;
+  }
+}
+
+/* =========== Mobile Layout: 767px =============== */
+@media (max-width:767px){
+  .mobileHeader {
+    position: relative !important;
+    top: 0 !important;
+  }
+  .login__grid {
+    margin-top: 0px;
+    padding: 30px 0;
+  }
+  .login__form {
+    padding: 12px 15px;
+}
+  .inner__grid__login {
+    width: auto;
+  }
+  .privacy__content p {
+    text-align: justify;
+    font-size: 16px;
+  }
+  .privacy__policy__sec h2 {
+    margin: 15px 0;
+  }
+  .privacy__policy__sec h1 {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+  .privacy__content .heading__img__two {
+    display: none;
+  }
+  .privacy__content .heading__img {
+    display: none;
+  }
+  .privacy__content .text__up__img {
+    display: none;
+  }
+  .withoutLogin {
+    margin-top: 15px !important;
+  }
+  .reg__circle {
+    display: none;
+  }
+  .cart__content {
+    padding: 0px 25px 15px 15px;
+  }
+  .table__total p {
+    font-size: 18px;
+  }
+  .checkout__btn {
+    font-size: 16px;
+  }
+  .cart__table table td {
+    font-size: 16px;
+  }
+  .total__part h2 {
+    font-size: 24px !important;
+    margin-top: 20px;
+  }
+  .course__text {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 0;
+  }
+  .cart__inner__inner__grid {
+    gap: 15px;
+    grid-template-columns: 1fr;
+  }
+  .cart__grid {
+    gap: 15px;
+    grid-template-columns: 1fr;
+    margin: 20px 0;
+  }
+  .cart__circle {
+    display: none;
+  }
+  .add__and__delte__btn {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .wishlist__content h4 {
+    font-size: 20px;
+  }
+  .wishlist__content {
+    padding: 15px;
+  }
+  .wishlist__inner__grid p.img__price {
+    font-size: 17px;
+  }
+  .wishlist__grid {
+    gap: 30px;
+    grid-template-columns: 1fr;
+    margin: 30px 0 0px 0;
+  }
+  .wishlist__circle {
+    display: none;
+  }
+  .categories__circle img {
+    display: none;
+  }
+  .category__grid {
+    gap: 30px;
+    grid-template-columns: 1fr;
+    padding: 30px 0;
+  }
+  .categories__sec h1 {
+    font-size: 35px;
+  }
+  .cat__inner__grid__sec h4 {
+    font-size: 26px;
+  }
+  article.for__mobile__next {
+    padding-top: 60px;
+  }
+  .instractor__part h4 {
+    font-size: 28px;
+  }
+.instractor__part p {
+    font-size: 15px;
+  }
+  .hero__main__content {
+    padding-top: 92px;
+  }
+  .triangle {
+    display: none;
+  }
+  .textUP {
+    display: none;
+  }
+  .up__circle {
+    display: none;
+  }
+  .hero__sec {
+    height: 40vh;
+    background-image: none;
+  }
+  .redCircle {
+    display: none;
+  }
+  .inner__right__part h5 {
+    font-size: 17px;
+  }
+  .for__mobile {
+    text-align: center;
+  }
+  .why__right__content h1 {
+    font-size: 28px;
+  }
+  .why__right__inner__grid {
+    gap: 15px;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 0;
+  }
+  .inner__right__part {
+    padding-top: 0px;
+  }
+  .join__now__btn button {
+    font-weight: 500;
+    padding: 0px 20px;
+  }
+  .instracture__grid {
+    gap: 15px;
+    grid-template-columns: 1.5fr 1fr;
+  }
+  .yellow__bg {
+    display: none;
+  }
+  .circle__blue {
+    display: none;
+  }
+  .why__grid {
+    gap: 25px;
+    grid-template-columns: 1fr;
+  }
+  .course__all__grid {
+    gap: 25px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  article.popular__course__sec {
+    margin-top: 0px;
+  }
+  .free__reg__circle {
+    display: none;
+  }
+  .online__grid {
+    grid-template-columns: 1fr;
+  }
+  .countdown h3 {
+    font-size: 28px;
+  }
+  .online__grid__right__content p {
+    font-size: 15px;
+  }
+  .detault__margin {
+    margin: 30px 0;
+  }
+  .header-area .navbar-light .navbar-nav .nav-link {
+    color: #000;
+  }
+  .navbar-collapse {
+    background: #fff;
+    padding-left: 20px;
+  }
+  .search-section h1 {
+    font-size: 24px;
+    padding-top: 0px;
+  }
+  .search-section p {
+    font-size: 14px;
+  }
+  .footerGrid {
+    gap: 15px;
+    grid-template-columns: 1fr;
+  }
+  .dropdown-content a {
+    padding: 9px 37px;
+  }
+  .navBarContact a {
+    width: 180px;
+  }
+  .header-area .sticky .navbar-nav button {
+    color: #000 !important;
+  }
+  .dropDownTwo {
+    padding-top: 10px;
+  }
+  .navBarContact {
+    margin-bottom: 10px;
+    margin-top: 5px;
+  }
+  .footer-area {
+    margin-top: 0px;
+    padding: 30px 0;
+  }
+  .header-area .navbar-light .navbar-nav button.btn {
+    outline: none !important;
+    margin-left: -13px;
+  }
+  .search-section img {
+    width: 16%;
+  }
+  #navbar4 {
+    margin-left: 0px;
+  }
+  .text-over-navbarImg h1 {
+    font-size: 14px !important;
+  }
+  .text-over-navbarImg h3 {
+    font-size: 18px;
+  }
+  .searchSection input {
+    width: 270px;
+  }
+  .searchSection {
+    padding: 15px 0;
+  }
+  .text-over-navbarImg {
+    top: 50%;
+  }
+  .search-section {
+    top: 40%;
+  }
+  .main-header {
+    position: fixed;
+    top: 40px;
+    width: 100%;
+  }
+  .imgNavTop {
+    margin-top: 68px;
+  }
+  .album-grid {
+    gap: 15px;
+    grid-template-columns: 1fr;
+  }
+  h2 {
+    font-size: 18px !important;
+  }
+  .couse__search h1 {
+    font-size: 24px;
+  }
+  .couse__search p {
+    font-size: 14px;
+  }
+  .search__form {
+    padding: 0 10px;
+  }
+  .hero__main__content h1 {
+    font-size: 30px;
+  }
+  .feature__header h1 {
+    font-size: 30px;
+  }
+  .online__grid__left__content {
+    padding: 25px 15px;
+    box-shadow: none;
+  }
+  .online__grid__right__content {
+    padding: 0px 15px;
+  }
+  .online__grid__right__content h1 {
+    font-size: 24px;
+  }
+}
+/* =========== Wide Mobile Layout: 575px =============== */
+@media(max-width:575px){
+  .footer-img {
+    padding-top: 0px;
+  }
+  .courses__grid ul li a {
+    font-size: 14px;
+  }
+  .header-area img.logo {
+    width: 50%;
+  }
+  .navbar-light .navbar-toggler {
+    outline: none;
+  }
+  .navbar-light .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .footerGrid p {
+    font-size: 14px;
+  }
+}
+
+@media(max-width:440px) {
+  .pagination {
+    margin-bottom: 25px;
+  }
+  .search-section {
+    top: 35%;
+  }
+  .search-section h1 {
+    font-size: 12px !important;
+  }
+  .search-section p {
+    font-size: 10px;
+  }
+}
+@media(max-width:360px) {
+  
+}
